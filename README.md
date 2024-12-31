@@ -107,8 +107,8 @@ Ensure all required libraries are installed.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
-Sinchana B R
-Contact: sinchanabr02@gmail.com 
+- Sinchana B R
+- Contact: sinchanabr02@gmail.com 
 
 Feel free to reach out for questions or suggestions regarding this project!
 Future Enhancements
