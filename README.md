@@ -30,7 +30,7 @@ The dataset includes customer demographics, subscription details, and usage beha
 The dataset used for this project is collected from kaggle:
 
 ```plaintext
-[DATASETS](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?resource=download)
+https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?resource=download
 ```
 
 ## Tools and Libraries Used
