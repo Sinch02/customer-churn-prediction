@@ -110,10 +110,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Sinchana B R
 - Contact: sinchanabr02@gmail.com 
 
-Feel free to reach out for questions or suggestions regarding this project!
-. Future Enhancements
-. Use advanced algorithms like XGBoost or CatBoost for further improvement.
-. Implement techniques to address class imbalance (e.g., SMOTE).
-. Explore deep learning models for churn prediction.
+Feel free to reach out for questions or suggestions regarding this project!.
+Future Enhancements.
+Use advanced algorithms like XGBoost or CatBoost for further improvement.
+Implement techniques to address class imbalance (e.g., SMOTE).
+Explore deep learning models for churn prediction.
 
 
