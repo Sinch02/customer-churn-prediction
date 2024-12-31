@@ -27,10 +27,10 @@ The dataset includes customer demographics, subscription details, and usage beha
 - **EstimatedSalary:** Customer's estimated salary.
 
 ## Dataset
-The dataset used for this project is located at:
+The dataset used for this project is collected from kaggle:
 
 ```plaintext
-D:\IMMERSIVIFY Intern\Customer Churn Prediction\archive\Churn_Modelling.csv
+[DATASETS](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction?resource=download)
 ```
 
 ## Tools and Libraries Used
